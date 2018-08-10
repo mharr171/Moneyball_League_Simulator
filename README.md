@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is just notes and test code, all located within the notes folder,
+for the time being.
 
-Things you may want to cover:
+* cd notes
+* ruby settings.rb
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Team and simulation settings can be changed in the settings.rb file
