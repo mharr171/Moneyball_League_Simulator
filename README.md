@@ -7,3 +7,7 @@ for the time being.
 * ruby settings.rb
 
 Team and simulation settings can be changed in the settings.rb file
+
+![Screenshot 1](https://github.com/mharr171/Moneyball_League_Simulator/images/Screnshot1.png)
+
+![Screenshot 2](https://github.com/mharr171/Moneyball_League_Simulator/images/Screnshot2.png)
